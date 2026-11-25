@@ -71,10 +71,4 @@ Construir un ecosistema institucional de IA donde el estudiante pueda utilizar I
 ---
 Proyecto académico — TEL342, Universidad Técnica Federico Santa María.
 
-## Objetivo final
 
-Construir un ecosistema institucional de IA donde el estudiante pueda utilizar Inteligencia Artificial como una herramienta de aprendizaje y acompañamiento, en lugar de utilizarla únicamente para obtener respuestas o realizar automáticamente sus tareas.
-
----
-
-Proyecto académico — TEL342, Universidad Técnica Federico Santa María.
